@@ -7,11 +7,15 @@
         <option value="$PROJECT_DIR$/springboot-001-start/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-002-initializer/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-003-properties/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-004-web/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-005-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-006-orm/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-007-restart/pom.xml" />
       </list>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

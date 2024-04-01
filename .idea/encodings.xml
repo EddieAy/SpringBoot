@@ -5,6 +5,10 @@
     <file url="file://$PROJECT_DIR$/springboot-002-initializer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-003-properties/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-003-properties/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-004-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-005-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-006-orm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-007-restart/src/main/java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
