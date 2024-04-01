@@ -1,8 +1,7 @@
 app:
-  name:tomcat
-  port:3306
-
+  name: tomcat
+  port: 3306
 
 spring:
   config:
-    import: classpath:conf/db.yml,conf/redis.yml
+    import: classpath:conf/redis.yml

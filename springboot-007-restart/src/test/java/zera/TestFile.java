@@ -8,10 +8,10 @@ import org.springframework.context.annotation.ComponentScan;
 import zera.service.MyService;
 import zera.util.MyConfig;
 
-@SpringBootTest(classes = TestFile.class)
+@SpringBootTest()
 public class TestFile {
 
-    @Autowired
+    @Resource
     private MyService myService;
 
     @Autowired
@@ -26,8 +26,8 @@ public class TestFile {
     public void test2(){
         myConfig.printInfo();
     }
-//    @Test
-//    public void test3(){
-//        myConfig.printYml();
-//    }
+    @Test
+    public void test3(){
+        myConfig.printYml();
+    }
 }

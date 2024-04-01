@@ -12,14 +12,13 @@ public class MyConfig {
     private Environment environment;
 
     public void printInfo(){
-//        String appName = environment.getProperty("app.name");
-//        String appPort = environment.getProperty("app.port");
-//        System.out.println("name + port" + appName + appPort);
+        String appName = environment.getProperty("app.name");
+        String appPort = environment.getProperty("app.port");
+        System.out.println("name + port" + appName + appPort);
         System.out.println("123123213213123");
     }
 
     public void printYml(){
-        System.out.println(environment.getProperty("spring.mysql.host"));
-        environment.getProperty("spring.redis.host");
+        System.out.println(environment.getProperty("spring.redis.host"));
     }
 }
