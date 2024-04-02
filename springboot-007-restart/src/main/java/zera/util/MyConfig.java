@@ -20,5 +20,6 @@ public class MyConfig {
 
     public void printYml(){
         System.out.println(environment.getProperty("spring.redis.host"));
+        System.out.println(environment.getProperty("spring.mysql.host"));
     }
 }

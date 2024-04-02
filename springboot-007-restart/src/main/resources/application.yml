@@ -5,3 +5,9 @@ app:
 spring:
   config:
     import: classpath:conf/redis.yml
+
+
+
+sec:
+  username: jack
+  password: 123

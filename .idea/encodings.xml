@@ -9,6 +9,9 @@
     <file url="file://$PROJECT_DIR$/springboot-005-mybatis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-006-orm/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-007-restart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-008-aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-009-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-010-transactional/src/main/java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

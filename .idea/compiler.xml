@@ -6,7 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot-009-mybatis" />
         <module name="springboot-003-properties" />
+        <module name="springboot-008-aop" />
+        <module name="springboot-010-transactional" />
         <module name="springboot-001-start" />
         <module name="springboot-006-orm" />
         <module name="springboot-007-restart" />
@@ -27,6 +30,9 @@
       <module name="springboot-005-mybatis" options="-parameters" />
       <module name="springboot-006-orm" options="-parameters" />
       <module name="springboot-007-restart" options="-parameters" />
+      <module name="springboot-008-aop" options="-parameters" />
+      <module name="springboot-009-mybatis" options="-parameters" />
+      <module name="springboot-010-transactional" options="-parameters" />
     </option>
   </component>
 </project>
