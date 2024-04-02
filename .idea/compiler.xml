@@ -9,6 +9,7 @@
         <module name="springboot-009-mybatis" />
         <module name="springboot-003-properties" />
         <module name="springboot-008-aop" />
+        <module name="springboot-011-web" />
         <module name="springboot-010-transactional" />
         <module name="springboot-001-start" />
         <module name="springboot-006-orm" />
@@ -20,6 +21,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="SpringBoot" target="21" />
+      <module name="springboot-007-restart (1)" target="21" />
+      <module name="springboot-007-restart (2)" target="21" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -30,9 +33,12 @@
       <module name="springboot-005-mybatis" options="-parameters" />
       <module name="springboot-006-orm" options="-parameters" />
       <module name="springboot-007-restart" options="-parameters" />
+      <module name="springboot-007-restart (1)" options="-parameters" />
+      <module name="springboot-007-restart (2)" options="-parameters" />
       <module name="springboot-008-aop" options="-parameters" />
       <module name="springboot-009-mybatis" options="-parameters" />
       <module name="springboot-010-transactional" options="-parameters" />
+      <module name="springboot-011-web" options="-parameters" />
     </option>
   </component>
 </project>
